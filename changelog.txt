@@ -1,0 +1,19 @@
+Date: 02 May, 2019
+====================
+- New: Add Bing Ads Integration
+
+Date: 04 April, 2019
+====================
+- Fix: Add plugin require notice
+
+Date: 13 March, 2018
+====================
+
+ - Fix: Permission warining fix when nothing is set
+ - Fix: Twitter add to cart event wasn't working
+
+
+Date: 22 February, 2018
+====================
+
+ - Initial release
